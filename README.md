@@ -1,4 +1,4 @@
-## 100 Days of Code - The Complete Python Pro Bootcamp for 2021
+## 100 Days of Code - The Complete Python Pro Bootcamp for 2022
 
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 [![](https://img.shields.io/badge/-100%20days%20of%20python-orange)](https://www.linkedin.com/in/masedos/)
