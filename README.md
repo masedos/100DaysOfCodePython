@@ -38,12 +38,11 @@ You'll go from complete beginner to advanced professional level Python. These ar
 
 [Day 001 - Beginner - Working with Variables in Python to Manage Data](../../../100DaysOfCodePython/tree/main/Day_001)
 
-[Day 002 - Beginner - Understanding Data Types and How to Manipulate Strings](../../../tree/main/100DaysOfCodePython/Day_002)
+[Day 002 - Beginner - Understanding Data Types and How to Manipulate Strings](../../../100DaysOfCodePython/tree/main/Day_002)
 
-[Day 003 - Beginner - Control Flow and Logical Operators](../../../tree/main/100DaysOfCodePython/Day_003)
+[Day 003 - Beginner - Control Flow and Logical Operators](../../../100DaysOfCodePython/tree/main/Day_003)
 
-[Day 004 - Beginner -
-Randomisation and Python Lists](../../tree/main/100DaysOfCodePython/Day_004)
+[Day 004 - Beginner - Randomisation and Python Lists](../../../100DaysOfCodePython/tree/main/Day_004)
 
 
 [![](https://github.com/masedos/100DaysOfCodePython/blob/main/folder.jpg)](https://www.linkedin.com/in/masedos/)
