@@ -36,7 +36,7 @@ You'll go from complete beginner to advanced professional level Python. These ar
 
 ## Course content
 
-[Day 001 - Beginner - Working with Variables in Python to Manage Data](../../100DaysOfCodePython/tree/main/Day_001)
+[Day 001 - Beginner - Working with Variables in Python to Manage Data](../100DaysOfCodePython/tree/main/Day_001)
 
 [Day 002 - Beginner - Understanding Data Types and How to Manipulate Strings](../../../tree/main/100DaysOfCodePython/Day_002)
 
