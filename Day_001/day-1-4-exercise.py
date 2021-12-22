@@ -5,8 +5,6 @@ __author__ = 'Fernandes Macedo'
 __email__ = 'masedos@gmail.com'
 
 
-#Write your code below this line 👇
-
 # 🚨 Don't change the code below 👇
 a = input("a: ")
 b = input("b: ")
@@ -15,7 +13,7 @@ b = input("b: ")
 ####################################
 #Write your code below this line 👇
 
-a, b = b, a
+b, a = a, b
 
 #Write your code above this line 👆
 ####################################
