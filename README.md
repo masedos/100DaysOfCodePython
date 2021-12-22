@@ -38,9 +38,9 @@ You'll go from complete beginner to advanced professional level Python. These ar
 
 [Day 001 - Beginner - Working with Variables in Python to Manage Data](../../../tree/main/100DaysOfCodePython/Day_001)
 
-[Day 002 - Beginner - Understanding Data Types and How to Manipulate Strings](../../tree/main/100DaysOfCodePython/Day_002)
+[Day 002 - Beginner - Understanding Data Types and How to Manipulate Strings](../../../tree/main/100DaysOfCodePython/Day_002)
 
-[Day 003 - Beginner - Control Flow and Logical Operators](../../tree/main/100DaysOfCodePython/Day_003)
+[Day 003 - Beginner - Control Flow and Logical Operators](../../../tree/main/100DaysOfCodePython/Day_003)
 
 [Day 004 - Beginner -
 Randomisation and Python Lists](../../tree/main/100DaysOfCodePython/Day_004)
