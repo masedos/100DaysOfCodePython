@@ -4,7 +4,6 @@ __version__ = '0.0.3'
 __author__ = 'Fernandes Macedo'
 __email__ = 'masedos@gmail.com'
 
-
 # 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
@@ -23,6 +22,7 @@ score = int(str(true) + str(love))
 
 if score < 10 or score > 90:
   print(f"Your score is {score}, you go together like coke and mentos.")
+
 elif 40 < score < 50:
   print(f"Your score is {score}, you are alright together.")
 else:
