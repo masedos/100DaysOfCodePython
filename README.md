@@ -45,5 +45,7 @@ You'll go from complete beginner to advanced professional level Python. These ar
 
 [Day 004 - Beginner - Randomisation and Python Lists](../../../100DaysOfCodePython/tree/main/Day_004)
 
+[Day 005 - Beginner - Python Loops](../../../100DaysOfCodePython/tree/main/Day_005)
+
 
 [![](https://github.com/masedos/100DaysOfCodePython/blob/main/folder.jpg)](https://www.linkedin.com/in/masedos/)
