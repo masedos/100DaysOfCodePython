@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/python-3.8-green)](https://www.python.org/downloads/)
 [![](https://img.shields.io/badge/-replit.com-yellowgreen)](https://replit.com/@masedos/100DaysOfCodePython#)
 [![](https://img.shields.io/badge/-pythontutor.com-blue)](http://pythontutor.com/live.html)
-[![](https://img.shields.io/badge/codingrooms-codingrooms-blue)](https://app.codingrooms.com/management/courses/6387/classes/8480/assignments)
+[![](https://img.shields.io/badge/-codingrooms-blue)](https://app.codingrooms.com/management/courses/6387/classes/8480/assignments)
 
 
 
