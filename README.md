@@ -47,5 +47,7 @@ You'll go from complete beginner to advanced professional level Python. These ar
 
 [Day 005 - Beginner - Python Loops](../../../100DaysOfCodePython/tree/main/Day_005)
 
+[Day 006 - Beginner - Python Functions & Karel](../../../100DaysOfCodePython/tree/main/Day_006)
+
 
 [![](https://github.com/masedos/100DaysOfCodePython/blob/main/folder.jpg)](https://www.linkedin.com/in/masedos/)
