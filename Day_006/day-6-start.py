@@ -7,4 +7,8 @@ __email__ = 'masedos@gmail.com'
 
 #Write your code below this line 👇
 
+def my_function():
+  print("Hello")
+  print("By")
 
+my_function()
