@@ -6,9 +6,3 @@ __email__ = 'masedos@gmail.com'
 
 
 #Write your code below this line 👇
-
-a = 1
-b = 3
-
-while b > a:
-  print("Rebeca")
