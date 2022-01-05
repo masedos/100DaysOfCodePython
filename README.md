@@ -43,17 +43,13 @@ You'll go from complete beginner to advanced professional level Python. These ar
 
 [Day 003 - Beginner - Control Flow and Logical Operators](../../../100DaysOfCodePython/tree/main/Day_003)
 
-[Day 004 - Beginner - Randomisation and Python Lists]
-(../../../100DaysOfCodePython/tree/main/Day_004)
+[Day 004 - Beginner - Randomisation and Python Lists](../../../100DaysOfCodePython/tree/main/Day_004)
 
-[Day 005 - Beginner - Python Loops]
-(../../../100DaysOfCodePython/tree/main/Day_005)
+[Day 005 - Beginner - Python Loops](../../../100DaysOfCodePython/tree/main/Day_005)
 
-[Day 006 - Beginner - Python Functions & Karel]
-(../../../100DaysOfCodePython/tree/main/Day_006)
+[Day 006 - Beginner - Python Functions & Karel](../../../100DaysOfCodePython/tree/main/Day_006)
 
-[Day 007 - Beginner - Hangman]
-(../../../100DaysOfCodePython/tree/main/Day_007)
+[Day 007 - Beginner - Hangman](../../../100DaysOfCodePython/tree/main/Day_007)
 
 [Day 008 - Beginner - Function Parameters & Caesar Cipher](../../../100DaysOfCodePython/tree/main/Day_008)
 
